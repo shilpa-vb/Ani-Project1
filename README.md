@@ -4,7 +4,7 @@
 - Displaying particular item in next Activity on GridView Click.
 
 Concept :
-1 Retrofit
-2 JSON
-3 JSON Array
-4 GridView
+1) Retrofit\n
+2) JSON\n
+3) JSON Array\n
+4) GridView\n
